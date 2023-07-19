@@ -1,1 +1,1 @@
-FROM node:18.16.1-slim
+FROM node:20.4.0-slim
