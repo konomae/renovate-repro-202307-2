@@ -3,6 +3,7 @@
   "extends": ["config:recommended"],
   "packageRules": [
     {
+      "groupName": "Node.js Group",
       "commitMessageTopic": "Node.js Group",
       "excludePackageNames": ["calico/node", "kindest/node"],
       "matchDepNames": ["node"],
