@@ -3,7 +3,8 @@
   "extends": ["config:recommended"],
   "packageRules": [
     {
-      "commitMessageTopic": "Node.js",
+      "groupName": "Node.js",
+      "commitMessageTopic": "Node.js Group",
       "excludePackageNames": ["calico/node", "kindest/node"],
       "matchDatasources": ["docker"],
       "matchDepNames": ["node"],
