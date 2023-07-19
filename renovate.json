@@ -6,7 +6,6 @@
       "groupName": "Node.js Group",
       "commitMessageTopic": "Node.js Group",
       "excludePackageNames": ["calico/node", "kindest/node"],
-      "matchDatasources": ["docker"],
       "matchDepNames": ["node"],
       "matchPackagePatterns": ["/node$"]
     }
